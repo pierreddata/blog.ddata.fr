@@ -1,12 +1,12 @@
-# Persona créant des jeux de données et rapports Power BI
+# Persona créant des Power Apps et Power Automate
 
 ## Rôle Azure Active directory : Aucun
 
-## Prénom : Narcisse
+## Prénom : Violette
 
 ## Photo : 
 
-![Narcisse - Créateur Power BI](persona-power-bi-maker-circle.png)
+![Violette - Créateur Power Platform](persona-power-platform-maker-circle.png)
 
 **Crédit photo :** [thispersondoesnotexist](https://thispersondoesnotexist.com/)
 
@@ -15,6 +15,7 @@
 ### Licences logiciel
 
 * Office 365 E5
+* Power Apps Developer Plan 
 
 ### Azure
 
@@ -28,9 +29,9 @@ Bon outil de dataviz !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 ## Informations diverses :
 
-**Age :** 29  
-**Ville :** Lille  
-**Situation :** Célibataire  
+**Age :** 33  
+**Ville :** Bordeaux  
+**Situation :** En couple  
 **Enfants :** Oui  
-**Intitulé de poste :** Contrôle de gestion  
-**Niveau d'études :** Master  
+**Intitulé de poste :** Citizen developper  
+**Niveau d'études :** Ingénieur  

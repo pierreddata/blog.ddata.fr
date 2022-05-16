@@ -2,7 +2,7 @@
 
 ## Rôle Azure Active directory : Administrateur Azure
 
-## Nom : Cerise
+## Prénom : Cerise
 
 ## Photo : 
 
@@ -14,7 +14,7 @@
 
 ### Licences logiciel
 
-Aucune
+* Aucune
 
 ### Azure
 

@@ -2,11 +2,11 @@
 
 ## Rôle Azure Active directory : Aucun
 
-## Nom : Ambroise
+## Prénom : Ambroise
 
 ## Photo : 
 
-![Ambroise - Administrateur Power BI](persona-power-bi-viewer-simple-user-circle.png)
+![Ambroise - Utilisateur de rapport Power BI](persona-power-bi-viewer-simple-user-circle.png)
 
 **Crédit photo :** [thispersondoesnotexist](https://thispersondoesnotexist.com/)
 
@@ -14,7 +14,7 @@
 
 ### Licences logiciel
 
-Office 365 E5
+* Office 365 E5
 
 ### Azure
 

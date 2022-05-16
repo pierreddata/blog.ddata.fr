@@ -2,11 +2,11 @@
 
 ## Rôle Azure Active directory : Aucun
 
-## Nom : Narcisse
+## Prénom : Capucine
 
 ## Photo : 
 
-![Narcisse - Administrateur Power BI](persona-power-bi-viewer-manager-circle.png)
+![Capucine - Manager utilisateur de rapport Power BI](persona-power-bi-viewer-manager-circle.png)
 
 **Crédit photo :** [thispersondoesnotexist](https://thispersondoesnotexist.com/)
 
@@ -14,7 +14,7 @@
 
 ### Licences logiciel
 
-Office 365 E5
+* Office 365 E5
 
 ### Azure
 

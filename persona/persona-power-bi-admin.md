@@ -2,7 +2,7 @@
 
 ## Rôle Azure Active directory : Administrateur Power BI
 
-## Nom : Rose
+## Prénom : Rose
 
 ## Photo : 
 
@@ -14,7 +14,7 @@
 
 ### Licences logiciel
 
-Aucune
+* Office 365 E5
 
 ### Azure
 
