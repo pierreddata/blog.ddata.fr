@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>QuiteRSS</title>
+        <dateModified>mer. oct. 19 07:13:13 2022</dateModified>
+    </head>
+    <body>
+        <outline text="QuiteRSS" type="rss" htmlUrl="https://quiterss.org" xmlUrl="https://quiterss.org/en/rss.xml"/>
+        <outline text="Le D de Data" type="rss" htmlUrl="https://blog.ddata.fr/" xmlUrl="https://blog.ddata.fr/index.xml"/>
+        <outline text="Power BI">
+            <outline text="Microsoft Power BI Blog | Microsoft Power BI" type="rss" htmlUrl="https://powerbi.microsoft.com/en-us/blog/" xmlUrl="https://powerbi.microsoft.com/en-us/blog/feed/"/>
+            <outline text="Chris Webb's BI Blog" type="rss" htmlUrl="https://blog.crossjoin.co.uk" xmlUrl="https://blog.crossjoin.co.uk/feed/"/>
+            <outline text="Blog Posts - Havens Consulting" type="rss" htmlUrl="https://www.havensconsulting.net/blog-and-media/" xmlUrl="https://www.havensconsulting.net/blog-and-media?format=rss"/>
+            <outline text="SQLBI" type="rss" htmlUrl="https://www.sqlbi.com" xmlUrl="https://feeds.feedburner.com/sqlbi_blog"/>
+            <outline text="DesignMind Blog" type="rss" htmlUrl="https://www.designmind.com/blog" xmlUrl="https://www.designmind.com/blog/rss.xml"/>
+            <outline text="Guy in a Cube" type="rss" htmlUrl="https://guyinacube.com/" xmlUrl="https://guyinacube.com/feed/"/>
+            <outline text="RADACAD" type="rss" htmlUrl="https://radacad.com/" xmlUrl="https://radacad.com/feed"/>
+            <outline text="Excelerator BI" type="rss" htmlUrl="https://exceleratorbi.com.au" xmlUrl="https://exceleratorbi.com.au/feed/"/>
+            <outline text="DataChant" type="rss" htmlUrl="https://datachant.com" xmlUrl="https://datachant.com/feed/"/>
+            <outline text="Kasper On BI" type="rss" htmlUrl="https://www.kasperonbi.com/" xmlUrl="https://www.kasperonbi.com/feed/"/>
+            <outline text="The BIccountant" type="rss" htmlUrl="https://www.thebiccountant.com/" xmlUrl="https://www.thebiccountant.com/feed/"/>
+            <outline text="Enterprise DNA" type="rss" htmlUrl="https://blog.enterprisedna.co/" xmlUrl="https://blog.enterprisedna.co/feed/"/>
+            <outline text="Data Mozart" type="rss" htmlUrl="https://data-mozart.com/" xmlUrl="https://data-mozart.com/feed/"/>
+            <outline text="Data – Marc" type="rss" htmlUrl="https://data-marc.com" xmlUrl="https://data-marc.com/feed/"/>
+            <outline text="Youtube">
+                <outline text="Access Analytic" type="rss" htmlUrl="https://www.youtube.com/channel/UCvD2rJJrp0aS48-KCk0eMHQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvD2rJJrp0aS48-KCk0eMHQ"/>
+                <outline text="Microsoft Power BI" type="rss" htmlUrl="https://www.youtube.com/channel/UCy--PYvwBwAeuYaR8JLmrfg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCy--PYvwBwAeuYaR8JLmrfg"/>
+                <outline text="Data Mozart" type="rss" htmlUrl="https://www.youtube.com/channel/UCWOlTv9ihw0rr_1ASrOulYA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWOlTv9ihw0rr_1ASrOulYA"/>
+                <outline text="How to Power BI" type="rss" htmlUrl="https://www.youtube.com/channel/UCcfngi7_ASuo5jdWX0bNauQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcfngi7_ASuo5jdWX0bNauQ"/>
+                <outline text="Chris Wagner" type="rss" htmlUrl="https://www.youtube.com/channel/UCUNTlJDKLzxxGo0tmKLbdOQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUNTlJDKLzxxGo0tmKLbdOQ"/>
+                <outline text="Dataseito" type="rss" htmlUrl="https://www.youtube.com/channel/UClwag9MZmEsrGueQlHX_fqg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClwag9MZmEsrGueQlHX_fqg"/>
+            </outline>
+            <outline text="Gorilla BI" type="rss" htmlUrl="https://gorilla.bi" xmlUrl="https://gorilla.bi/feed/"/>
+            <outline text="Power BI Tips" type="rss" htmlUrl="https://powerbi.tips" xmlUrl="https://powerbi.tips/feed/"/>
+            <outline text="XXL BI" type="rss" htmlUrl="https://xxlbi.com" xmlUrl="https://xxlbi.com/feed/"/>
+            <outline text="Goodly" type="rss" htmlUrl="https://goodly.co.in" xmlUrl="https://www.goodly.co.in/feed/"/>
+            <outline text="BI Polar" type="rss" htmlUrl="https://ssbipolar.com" xmlUrl="https://ssbipolar.com/feed/"/>
+            <outline text="Power Query - Blog" type="rss" htmlUrl="https://powerquery.microsoft.com/en-us/blog/" xmlUrl="https://powerquery.microsoft.com/en-us/blog/feed/"/>
+            <outline text="Blog - Coates Data Strategies" type="rss" htmlUrl="https://www.coatesdatastrategies.com/blog/" xmlUrl="https://www.coatesdatastrategies.com/blog?format=rss"/>
+            <outline text="Project Controls blog" type="rss" htmlUrl="https://datamonkeysite.com" xmlUrl="https://datamonkeysite.com/feed/"/>
+            <outline text="FourMoo | Power BI | Data Analytics" type="rss" htmlUrl="https://www.fourmoo.com/" xmlUrl="https://www.fourmoo.com/feed/"/>
+            <outline text="Under the kover of business intelligence" type="rss" htmlUrl="https://sqlkover.com" xmlUrl="https://sqlkover.com/feed/"/>
+            <outline text="Ben's Blog" type="rss" htmlUrl="https://datakuity.com" xmlUrl="https://datakuity.com/feed/"/>
+            <outline text="What the fact.bi" type="rss" htmlUrl="https://whatthefact.bi" xmlUrl="https://whatthefact.bi/feed/"/>
+            <outline text="Data Goblins Blog - DATA GOBLINS" type="rss" htmlUrl="https://data-goblins.com/power-bi/" xmlUrl="https://data-goblins.com/power-bi?format=rss"/>
+            <outline text="BI Insight" type="rss" htmlUrl="https://www.biinsight.com/" xmlUrl="http://www.biinsight.com/feed/"/>
+            <outline text="Data Pears" type="rss" htmlUrl="https://www.datapears.com/blog" xmlUrl="https://www.datapears.com/blog-feed.xml"/>
+            <outline text="Self-Service Business Intelligence" type="rss" htmlUrl="https://selfservicebi.co.uk" xmlUrl="https://selfservicebi.co.uk/feed/"/>
+            <outline text="Supply Chain Flow" type="rss" htmlUrl="https://jihwankimcscp.wixsite.com/supplychainflow/blog" xmlUrl="https://jihwankimcscp.wixsite.com/supplychainflow/blog-feed.xml"/>
+            <outline text="DataMartIn" type="rss" htmlUrl="https://datamartin.azurewebsites.net" xmlUrl="https://datamartin.azurewebsites.net/feed/"/>
+        </outline>
+        <outline text="Power Platform">
+            <outline text="Luise Freese: Consultant &amp; MVP" type="rss" htmlUrl="https://m365princess.com/" xmlUrl="https://www.m365princess.com/index.xml"/>
+            <outline text="Mastering requirements and solution envisioning for Microsoft Business Applications" type="rss" htmlUrl="https://danikahil.com" xmlUrl="https://danikahil.com/feed"/>
+            <outline text="It Ain’t Boring" type="rss" htmlUrl="https://www.itaintboring.com" xmlUrl="https://www.itaintboring.com/feed/"/>
+            <outline text="Matthew Devaney" type="rss" htmlUrl="https://www.matthewdevaney.com" xmlUrl="https://www.matthewdevaney.com/feed/"/>
+            <outline text="PowerApps911" type="rss" htmlUrl="https://www.powerapps911.com/blog" xmlUrl="https://www.powerapps911.com/blog-feed.xml"/>
+            <outline text="Power Platform Developers Weekly" type="rss" htmlUrl="http://www.powerplatformdevelopersweekly.com/" xmlUrl="https://www.powerplatformdevelopersweekly.com/?format=rss"/>
+            <outline text="Youtube">
+                <outline text="Shane Young" type="rss" htmlUrl="https://www.youtube.com/channel/UC7_OGRP8BYvtGB8eZdPG6Ng" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7_OGRP8BYvtGB8eZdPG6Ng"/>
+                <outline text="Microsoft Power Apps" type="rss" htmlUrl="https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGfWR2ekfRFckLjev6eQYLg"/>
+                <outline text="Microsoft Power Automate" type="rss" htmlUrl="https://www.youtube.com/channel/UCG98S4lL7nwlN8dxSF322bA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCG98S4lL7nwlN8dxSF322bA"/>
+                <outline text="Microsoft Power Virtual Agents" type="rss" htmlUrl="https://www.youtube.com/channel/UCn8PsBlVsGUt8J3tZCKsMPA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCn8PsBlVsGUt8J3tZCKsMPA"/>
+                <outline text="Reza Dorrani" type="rss" htmlUrl="https://www.youtube.com/channel/UCvBYTqRx-n_8KzFO0MJlUVw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvBYTqRx-n_8KzFO0MJlUVw"/>
+                <outline text="Pragmatic Works" type="rss" htmlUrl="https://www.youtube.com/channel/UC5CugyvTdOloiuTc9nN09TA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5CugyvTdOloiuTc9nN09TA"/>
+                <outline text="April Dunnam" type="rss" htmlUrl="https://www.youtube.com/channel/UCz_x76EBX5UXsV27drGNh6w" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCz_x76EBX5UXsV27drGNh6w"/>
+            </outline>
+            <outline text="Power Automate - Blog" type="rss" htmlUrl="https://powerautomate.microsoft.com/fr-fr/blog/" xmlUrl="https://powerautomate.microsoft.com/fr-fr/blog/feed/"/>
+            <outline text="Microsoft Power Apps - Blog" type="rss" htmlUrl="https://powerapps.microsoft.com/fr-fr/blog/" xmlUrl="https://powerapps.microsoft.com/fr-fr/blog/feed/"/>
+            <outline text="Power Virtual Agents - Blog" type="rss" htmlUrl="https://powervirtualagents.microsoft.com/fr-fr/blog/" xmlUrl="https://powervirtualagents.microsoft.com/fr-fr/blog/feed/"/>
+            <outline text="Pragmatic Works Connections" type="rss" htmlUrl="https://blog.pragmaticworks.com" xmlUrl="https://blog.pragmaticworks.com/rss.xml"/>
+            <outline text="The Power Platform Talks" type="rss" htmlUrl="https://carstengroth.wordpress.com" xmlUrl="https://carstengroth.wordpress.com/feed/"/>
+            <outline text="XRM Tricks (Power Platform &amp; Dynamics CRM )" type="rss" htmlUrl="https://xrmtricks.com" xmlUrl="https://xrmtricks.com/feed/"/>
+            <outline text="FlowJoe.io" type="rss" htmlUrl="https://www.flowjoe.io/" xmlUrl="https://www.flowjoe.io/feed/"/>
+            <outline text="Power Pages" type="rss" htmlUrl="https://powerpages.microsoft.com/en-us/blog/" xmlUrl="https://powerpages.microsoft.com/en-us/blog/feed/"/>
+            <outline text="Blog - Low Code Lewis" type="rss" htmlUrl="https://www.lowcodelewis.com/blog/" xmlUrl="https://www.lowcodelewis.com/blog?format=rss"/>
+            <outline text="Power Melange" type="rss" htmlUrl="https://powermelangebyshalinee.wordpress.com" xmlUrl="https://powermelangebyshalinee.wordpress.com/feed/"/>
+            <outline text="Debajit's Power Apps &amp; Dynamics 365 Blog" type="rss" htmlUrl="https://debajmecrm.com/" xmlUrl="https://debajmecrm.com/feed/"/>
+            <outline text="XRM Enterprise" type="rss" htmlUrl="http://xrmenterprise.com" xmlUrl="http://xrmenterprise.com/feed/"/>
+            <outline text="Stories by Tim Hanewich on Medium" type="rss" htmlUrl="https://medium.com/@timhanewich?source=rss-77c9bad82740------2" xmlUrl="https://medium.com/feed/@timhanewich"/>
+        </outline>
+        <outline text="Azure">
+            <outline text="Robert J Blackburn" type="rss" htmlUrl="https://robertjblackburn.com" xmlUrl="https://robertjblackburn.com/feed/"/>
+            <outline text="John Savill's Technical Training" type="rss" htmlUrl="https://www.youtube.com/channel/UCpIn7ox7j7bH_OFj7tYouOQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpIn7ox7j7bH_OFj7tYouOQ"/>
+            <outline text="Microsoft Azure" type="rss" htmlUrl="https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0m-80FnNY2Qb7obvTL_2fA"/>
+            <outline text="Stanislas.io" type="rss" htmlUrl="https://stanislas.io" xmlUrl="https://stanislas.io/feed/"/>
+            <outline text="Stanislas Quastana - Pro" type="rss" htmlUrl="https://www.youtube.com/channel/UCuMBPlhwdtx54Qx9a_OhuMA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCuMBPlhwdtx54Qx9a_OhuMA"/>
+            <outline text="Microsoft Data Platform et Azure" type="rss" htmlUrl="https://sauget-ch.fr" xmlUrl="https://sauget-ch.fr/feed/"/>
+            <outline text="Good Workaround!" type="rss" htmlUrl="https://goodworkaround.com" xmlUrl="https://goodworkaround.com/feed/"/>
+            <outline text="Technical And Cloud" type="rss" htmlUrl="https://technicalandcloud.com/" xmlUrl="https://technicalandcloud.com/feed/"/>
+            <outline text="Azure Data Factory" type="rss" htmlUrl="https://www.youtube.com/channel/UC2S0k7NeLcEm5_IhHUwpN0g" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2S0k7NeLcEm5_IhHUwpN0g"/>
+            <outline text="Robino" type="rss" htmlUrl="https://robino.io/" xmlUrl="https://robino.io/rss/"/>
+            <outline text="Geeks on Screens" type="rss" htmlUrl="https://geeksonscreens.azurewebsites.net" xmlUrl="https://geeksonscreens.azurewebsites.net/feed/"/>
+            <outline text="TeddyCorp" type="rss" htmlUrl="https://teddycorp.net/" xmlUrl="http://teddycorp.net/rss"/>
+            <outline text="Serverless SQL" type="rss" htmlUrl="https://www.serverlesssql.com" xmlUrl="https://www.serverlesssql.com/feed/"/>
+            <outline text="Azure service updates" type="rss" htmlUrl="https://azure.microsoft.com/en-us/updates/" xmlUrl="https://azurecomcdn.azureedge.net/en-us/updates/feed/"/>
+            <outline text="Azure Synapse Analytics" type="rss" htmlUrl="https://www.youtube.com/channel/UCsZ4IlYjjVxqe5OZ14tyh5g" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsZ4IlYjjVxqe5OZ14tyh5g"/>
+            <outline text="Stories by Dave R - Microsoft Azure MVP☁️ on Medium" type="rss" htmlUrl="https://medium.com/@daverendon?source=rss-7f23df591f29------2" xmlUrl="https://medium.com/feed/@daverendon"/>
+        </outline>
+        <outline text="Data">
+            <outline text="tmobile-dsna - Medium" type="rss" htmlUrl="https://medium.com/tmobile-dsna?source=rss----bd42cb78d33a---4" xmlUrl="https://medium.com/feed/tmobile-dsna"/>
+            <outline text="SQL Of The North" type="rss" htmlUrl="https://sqlofthenorth.blog" xmlUrl="https://sqlofthenorth.blog/feed/"/>
+            <outline text="Azure Synapse Analytics Blog articles" type="rss" htmlUrl="https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog" xmlUrl="https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=AzureSynapseAnalyticsBlog"/>
+            <outline text="Azure Data Factory Blog articles" type="rss" htmlUrl="https://techcommunity.microsoft.com/t5/azure-data-factory-blog/bg-p/AzureDataFactoryBlog" xmlUrl="https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=AzureDataFactoryBlog"/>
+            <outline text="Azure Data Blog articles" type="rss" htmlUrl="https://techcommunity.microsoft.com/t5/azure-data-blog/bg-p/AzureDataBlog" xmlUrl="https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=AzureDataBlog"/>
+            <outline text="Data Architecture Blog articles" type="rss" htmlUrl="https://techcommunity.microsoft.com/t5/data-architecture-blog/bg-p/DataArchitectureBlog" xmlUrl="https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=DataArchitectureBlog"/>
+            <outline text="Microsoft Purview Blog articles" type="rss" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-purview-blog/bg-p/AzurePurviewBlog" xmlUrl="https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=AzurePurviewBlog"/>
+            <outline text="Microsoft BI Tools" type="rss" htmlUrl="https://microsoft-bitools.blogspot.com/" xmlUrl="https://microsoft-bitools.blogspot.com/feeds/posts/default"/>
+            <outline text="James Serra's Blog" type="rss" htmlUrl="https://www.jamesserra.com" xmlUrl="http://feeds.feedburner.com/JamesSerra"/>
+            <outline text="endjin.com" type="rss" htmlUrl="https://endjin.com/" xmlUrl="https://endjin.com/atom.xml"/>
+            <outline text="Datahai blog" type="rss" htmlUrl="https://www.datahai.co.uk" xmlUrl="https://www.datahai.co.uk/feed/"/>
+            <outline text="Wolfgang Strasser" type="rss" htmlUrl="https://www.youtube.com/channel/UCLyrxmFd-qmk4-wWwL6w7ww" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLyrxmFd-qmk4-wWwL6w7ww"/>
+            <outline text="Reitse's blog" type="rss" htmlUrl="https://sqlreitse.com" xmlUrl="https://sqlreitse.com/feed/"/>
+        </outline>
+        <outline text="M365">
+            <outline text="Vesa Nopanen – My Metaverse Day" type="rss" htmlUrl="https://mymetaverseday.com" xmlUrl="https://mymetaverseday.com/feed/"/>
+            <outline text="Microsoft SharePoint Blog articles" type="rss" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/bg-p/SPBlog" xmlUrl="https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=SPBlog"/>
+            <outline text="Microsoft Teams Blog articles" type="rss" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-teams-blog/bg-p/MicrosoftTeamsBlog" xmlUrl="https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=MicrosoftTeamsBlog"/>
+            <outline text="Office 365 Blog articles" type="rss" htmlUrl="https://techcommunity.microsoft.com/t5/office-365-blog/bg-p/Office365Blog" xmlUrl="https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=Office365Blog"/>
+            <outline text="Microsoft 365 Platform Community Blog" type="rss" htmlUrl="https://pnp.github.io/blog/" xmlUrl="https://pnp.github.io/blog/index.xml"/>
+            <outline text="Je ne suis pas informaticienne !" type="rss" htmlUrl="https://jenesuispasinformaticienne.wordpress.com" xmlUrl="https://jenesuispasinformaticienne.wordpress.com/feed/"/>
+            <outline text="Teams Simple &amp; Accessible" type="rss" htmlUrl="https://www.teams2simple.com/mon-blog" xmlUrl="https://www.teams2simple.com/blog-feed.xml"/>
+        </outline>
+        <outline text="Divers">
+            <outline text="Microsoft Learn Blog articles" type="rss" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog" xmlUrl="https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=MicrosoftLearnBlog"/>
+            <outline text="Sysinternals Blog articles" type="rss" htmlUrl="https://techcommunity.microsoft.com/t5/sysinternals-blog/bg-p/Sysinternals-Blog" xmlUrl="https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=Sysinternals-Blog"/>
+            <outline text="Madeira Data Solutions" type="rss" htmlUrl="https://www.madeiradata.com/blog" xmlUrl="https://www.madeiradata.com/blog-feed.xml"/>
+            <outline text="Jean-Sébastien DUCHENE Blog's" type="rss" htmlUrl="https://microsofttouch.fr/default/b/js" xmlUrl="https://feeds.feedburner.com/jean-sbastienducheneblogs"/>
+        </outline>
+    </body>
+</opml>
